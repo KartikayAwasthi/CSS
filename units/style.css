@@ -1,0 +1,17 @@
+main{
+    border: 5px dashed brown;
+  /* width:50%; */
+  width:25vw;
+}
+section{
+    border:5px dashed green;
+    /* width:50%; */
+    width:50vw;
+    /* height:200vh; */
+}
+body{
+    font-size: 1em;
+}
+header{
+    font-size: 4em;
+}

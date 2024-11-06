@@ -1,0 +1,28 @@
+*{
+    font-family: fantasy;
+}
+body{
+    font-size: 22px;
+   
+    font-style: italic;
+
+}
+
+#first>h2{
+    background-color: aqua;
+}
+
+#third{
+    background-color: whitesmoke;
+}
+
+.purple{
+    color: brown;
+    font-family:monospace;
+}
+
+.highlight{
+    color:red;
+    background-color: yellow;
+    font-weight: 500;
+}
